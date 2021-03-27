@@ -11,9 +11,6 @@ async function startScraper() {
   console.log("before run");
 
   const allNodes = await page.evaluate(() => {
-    let holderArray = [];
-    let result = [];
-    let counter = 1;
     let elements = [
       ...document.querySelectorAll("#statePods_table tbody tr td"),
     ];
