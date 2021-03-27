@@ -1,0 +1,190 @@
+{
+  "sites": [
+    {
+      "siteLocation": "SUNY Albany",
+      "vaccineType": "Pfizer",
+      "location": "Albany, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "Suffolk CCC - Brentwood",
+      "vaccineType": "Pfizer",
+      "location": "Brentwood, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "Bronx - Bay Eden Senior Center",
+      "vaccineType": "Pfizer",
+      "location": "Bronx, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "SUNY Corning Community College",
+      "vaccineType": "Pfizer",
+      "location": "Corning, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "Rochester Dome Arena",
+      "vaccineType": "Pfizer",
+      "location": "Henrietta, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "SUNY Binghamton",
+      "vaccineType": "Pfizer",
+      "location": "Johnson City, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "SUNY Orange",
+      "vaccineType": "Pfizer",
+      "location": "Middletown, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "Ulster Fairgrounds in New Paltz",
+      "vaccineType": "Pfizer",
+      "location": "New Paltz, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "Javits Center",
+      "vaccineType": "Pfizer",
+      "location": "New York, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "SUNY Oneonta",
+      "vaccineType": "Pfizer",
+      "location": "Oneonta, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "Plattsburgh International Airport",
+      "vaccineType": "Pfizer",
+      "location": "Plattsburgh, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "SUNY Potsdam ",
+      "vaccineType": "Pfizer",
+      "location": "Potsdam, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "Queensbury Aviation Mall - Sears",
+      "vaccineType": "Pfizer",
+      "location": "Queensbury, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "Queensbury Aviation Mall - Sears",
+      "vaccineType": "Janssen – J & J",
+      "location": "Queensbury, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "State Fair Expo Center: NYS Fairgrounds ",
+      "vaccineType": "Pfizer",
+      "location": "Syracuse, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "SUNY Polytechnic Institute",
+      "vaccineType": "Pfizer",
+      "location": "Utica, NY",
+      "availability": "Yes"
+    },
+    {
+      "siteLocation": "**Washington Avenue Armory - Albany, Schenectady, Troy ",
+      "vaccineType": "Pfizer",
+      "location": "Albany, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "**Medgar Evers College - Brooklyn",
+      "vaccineType": "Pfizer",
+      "location": "Brooklyn, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "**Delavan Grider Community Center - Buffalo",
+      "vaccineType": "Pfizer",
+      "location": "Buffalo, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "University at Buffalo South Campus",
+      "vaccineType": "Pfizer",
+      "location": "Buffalo, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "SUNY Old Westbury",
+      "vaccineType": "Pfizer",
+      "location": "Glen Head, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "**York College - Health and Physical Education Complex - Queens",
+      "vaccineType": "Pfizer",
+      "location": "Jamaica, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "Javits Center",
+      "vaccineType": "Janssen – J & J",
+      "location": "New York, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "The Conference Center Niagara Falls",
+      "vaccineType": "Pfizer",
+      "location": "Niagara Falls, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "**Former Kodak Hawkeye Parking Lot - Rochester",
+      "vaccineType": "Pfizer",
+      "location": "Rochester, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "Aqueduct Racetrack ",
+      "vaccineType": "Pfizer",
+      "location": "South Ozone Park, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "Stony Brook - Southampton",
+      "vaccineType": "Pfizer",
+      "location": "Southampton, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "SUNY Stony Brook ",
+      "vaccineType": "Pfizer",
+      "location": "Stony Brook, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "State Fair Expo Center: NYS Fairgrounds",
+      "vaccineType": "Janssen – J & J",
+      "location": "Syracuse, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "Jones Beach - Field 3 ",
+      "vaccineType": "Pfizer",
+      "location": "Wantagh, NY",
+      "availability": "No"
+    },
+    {
+      "siteLocation": "Westchester County Center",
+      "vaccineType": "Pfizer",
+      "location": "White Plains, NY",
+      "availability": "No"
+    }
+  ]
+}
