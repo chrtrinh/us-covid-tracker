@@ -1,8 +1,10 @@
 const puppeteer = require("puppeteer");
-const path = require("path");
-const fs = require("fs");
+const express = require("express");
+const cors = require("cors");
 
-async function startScraper() {
+const app = express();
+
+app.get("/sites", cors(), async (req, res) => {
 	const browser = await puppeteer.launch();
 	const page = await browser.newPage();
 
@@ -71,7 +73,9 @@ async function startScraper() {
 	const data = JSON.stringify({ sites: resultArr }, null, 2);
 	// const filename = path.join('data', 'ny_state.json');
 	// fs.writeFileSync(path.resolve(filename), data);
-	return data;
-}
+	res.status(200).send(data);
+});
 
-module.exports = startScraper;
+app.listen(4000, () => {
+	console.log(`Example app listening at http://localhost:${4000}`);
+});
